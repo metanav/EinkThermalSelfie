@@ -1,1 +1,1 @@
-# EinkThermalSelfie
+# Thermal eInk Selfie Photo Frame
